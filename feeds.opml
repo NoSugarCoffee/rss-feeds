@@ -8,5 +8,8 @@
       <outline text="Flavio Copes" type="rss" xmlUrl="https://flaviocopes.com/rss.xml" htmlUrl="https://flaviocopes.com/blog/"/>
       <outline text="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com/"/>
     </outline>
+    <outline text="Labs">
+      <outline text="Anthropic Research" type="rss" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-research.xml" htmlUrl="https://www.anthropic.com/research"/>
+    </outline>
   </body>
 </opml>
