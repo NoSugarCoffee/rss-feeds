@@ -1,0 +1,21 @@
+feeds.opml
+  s_42173c093319fa::t_59fb3bf0256e22 10
+README.md
+  s_42173c093319fa::t_59fb3bf0256e22 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "78e5b8d568079d2c4b7a545e9e954a07251816d0",
+  "prompts": {},
+  "sessions": {
+    "s_42173c093319fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04082371-feae-4a15-869f-46f83c62aabf",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "NoSugarCoffee <25247325+NoSugarCoffee@users.noreply.github.com>"
+    }
+  }
+}
