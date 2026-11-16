@@ -16,6 +16,7 @@ My personal RSS subscription list, kept as [`feeds.opml`](feeds.opml).
 
 | Group | Source | Feed |
 |-------|--------|------|
+| Blogs | [Addy Osmani](https://addyosmani.com/blog/) | [`rss.xml`](https://addyosmani.com/rss.xml) |
 | Blogs | [Armin Ronacher](https://lucumr.pocoo.org/) | [`feed.atom`](https://lucumr.pocoo.org/feed.atom) |
 | Blogs | [Dave Cheney](https://dave.cheney.net/) | [`feed`](https://dave.cheney.net/feed) |
 | Blogs | [Flavio Copes](https://flaviocopes.com/blog/) | [`rss.xml`](https://flaviocopes.com/rss.xml) |

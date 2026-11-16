@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Blogs">
+      <outline text="Addy Osmani" type="rss" xmlUrl="https://addyosmani.com/rss.xml" htmlUrl="https://addyosmani.com/blog/"/>
       <outline text="Armin Ronacher" type="rss" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl="https://lucumr.pocoo.org/"/>
       <outline text="Dave Cheney" type="rss" xmlUrl="https://dave.cheney.net/feed" htmlUrl="https://dave.cheney.net/"/>
       <outline text="Flavio Copes" type="rss" xmlUrl="https://flaviocopes.com/rss.xml" htmlUrl="https://flaviocopes.com/blog/"/>
