@@ -6,6 +6,7 @@
   <body>
     <outline text="Blogs">
       <outline text="Flavio Copes" type="rss" xmlUrl="https://flaviocopes.com/rss.xml" htmlUrl="https://flaviocopes.com/blog/"/>
+      <outline text="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com/"/>
     </outline>
   </body>
 </opml>
