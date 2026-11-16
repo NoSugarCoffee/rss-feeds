@@ -4,5 +4,8 @@
     <title>My Feeds</title>
   </head>
   <body>
+    <outline text="Blogs">
+      <outline text="Flavio Copes" type="rss" xmlUrl="https://flaviocopes.com/rss.xml" htmlUrl="https://flaviocopes.com/blog/"/>
+    </outline>
   </body>
 </opml>
