@@ -16,9 +16,9 @@ My personal RSS subscription list, kept as [`feeds.opml`](feeds.opml).
 
 | Group | Source | Feed |
 |-------|--------|------|
+| Blogs | [Dave Cheney](https://dave.cheney.net/) | [`feed`](https://dave.cheney.net/feed) |
 | Blogs | [Flavio Copes](https://flaviocopes.com/blog/) | [`rss.xml`](https://flaviocopes.com/rss.xml) |
 | Blogs | [Martin Fowler](https://martinfowler.com/) | [`feed.atom`](https://martinfowler.com/feed.atom) |
-| Blogs | [Dave Cheney](https://dave.cheney.net/) | [`feed`](https://dave.cheney.net/feed) |
 | Labs | [Anthropic Research](https://www.anthropic.com/research) | [`anthropic-research.xml`](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-research.xml) (unofficial, via [ai-rss-feeds](https://github.com/alan-turing-institute/ai-rss-feeds)) |
 
 ## 🚀 Use it
@@ -30,11 +30,11 @@ My personal RSS subscription list, kept as [`feeds.opml`](feeds.opml).
 ## ➕ Add a feed
 
 1. Find the feed URL. Look for `<link rel="alternate" type="application/rss+xml">` in the page's HTML, or try `/rss.xml`, `/feed`, `/index.xml` or `/feed.atom`.
-2. Add an `<outline>` under the right group in `feeds.opml`:
+2. Add an `<outline>` under the right group in `feeds.opml`, in name order:
 
    ```xml
    <outline text="Name" type="rss" xmlUrl="https://example.com/rss.xml" htmlUrl="https://example.com/"/>
    ```
 
 3. Check that the file is still valid XML: `xmllint --noout feeds.opml`
-4. Add a row to the table above, then commit.
+4. Add a row to the table above, keeping rows sorted by group, then by name. Then commit.
