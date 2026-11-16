@@ -18,6 +18,7 @@ My personal RSS subscription list, kept as [`feeds.opml`](feeds.opml).
 |-------|--------|------|
 | Blogs | [Flavio Copes](https://flaviocopes.com/blog/) | [`rss.xml`](https://flaviocopes.com/rss.xml) |
 | Blogs | [Martin Fowler](https://martinfowler.com/) | [`feed.atom`](https://martinfowler.com/feed.atom) |
+| Blogs | [Dave Cheney](https://dave.cheney.net/) | [`feed`](https://dave.cheney.net/feed) |
 | Labs | [Anthropic Research](https://www.anthropic.com/research) | [`anthropic-research.xml`](https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-research.xml) (unofficial, via [ai-rss-feeds](https://github.com/alan-turing-institute/ai-rss-feeds)) |
 
 ## 🚀 Use it
